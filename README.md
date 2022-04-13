@@ -1,10 +1,10 @@
-# DataScienceProject
+# DataScienceProject - Ames Housing Data
 
 #PROYECTO FINAL 💻
 
 - Curso: Data Science
 
-- Comisión: 22740
+- Comisión: 22740 CODERHOUSE
 
 - Profesor: Luca Cittá Giordano
 
@@ -12,6 +12,6 @@
 
 ## Equipo de trabajo
 
-- Germán Hilbert
+- Germán Hilgert
 - Iván González Seguezzo
 - José Nardulli
