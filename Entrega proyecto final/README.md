@@ -16,7 +16,7 @@
 - Iván González Seguezzo
 - José Nardulli
 
-![](https://github.com/germanhilgert/01_TP_AmesHousingData/tree/master/Entrega%20proyecto%20final/Assets/index.jpg)
+![](https://github.com/germanhilgert/01_TP_AmesHousingData/blob/master/Entrega%20proyecto%20final/Assets/index.jpg)
 
 ## Sintesis ##
 - En este trabajo, se desarrolla un análisis sobre los datos correspondientes a las viviendas pertenecientes a la ciudad de
@@ -32,5 +32,5 @@ viviendas en la zona bajo análisis.
 
 ## Capturas del trabajo ##
 
-![](https://github.com/germanhilgert/01_TP_AmesHousingData/tree/master/Entrega%20proyecto%20final/Assets/take1.jpg)
-![](https://github.com/germanhilgert/01_TP_AmesHousingData/tree/master/Entrega%20proyecto%20final/Assets/take2.jpg)
+![](https://github.com/germanhilgert/01_TP_AmesHousingData/blob/master/Entrega%20proyecto%20final/Assets/take1.jpg)
+![](https://github.com/germanhilgert/01_TP_AmesHousingData/blob/master/Entrega%20proyecto%20final/Assets/take2.jpg)
