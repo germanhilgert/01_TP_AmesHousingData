@@ -12,6 +12,6 @@
 
 ## Equipo de trabajo
 
-- Germán Hilbert
+- Germán Hilgert
 - Iván González Seguezzo
 - José Nardulli
