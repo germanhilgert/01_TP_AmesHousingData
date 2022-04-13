@@ -1,6 +1,6 @@
 # DataScienceProject
 
-# PRIMERA ENTREGA DEL PROYECTO FINAL 💻
+# ENTREGA DEL PROYECTO FINAL - AMES HOUSING DATA 💻
 
 - Curso: Data Science
 
@@ -10,7 +10,7 @@
 
 - Tutor: Juan Felipe Gonzalez Sanmiguel
 
-## Equipo de trabajo
+## Equipo de trabajo 'Los Borbotones'
 
 - Germán Hilgert
 - Iván González Seguezzo
