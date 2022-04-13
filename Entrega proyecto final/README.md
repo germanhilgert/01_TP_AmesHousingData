@@ -30,7 +30,13 @@ de venta final..
 - La información extraída puede ser de gran utilidad para agencias inmobiliarias y para potenciales compradores de
 viviendas en la zona bajo análisis.
 
-## Capturas del trabajo ##
+## Capturas del proyecto ##
 
 ![](https://github.com/germanhilgert/01_TP_AmesHousingData/blob/master/Entrega%20proyecto%20final/Assets/take1.jpg)
 ![](https://github.com/germanhilgert/01_TP_AmesHousingData/blob/master/Entrega%20proyecto%20final/Assets/take2.jpg)
+
+## Presentacion ejecutiva del proyecto ##
+
+Link de la presentacion: https://prezi.com/view/ghMCsZ65Yw8ShcT5Vh3H/
+
+![](https://github.com/germanhilgert/01_TP_AmesHousingData/blob/master/Entrega%20proyecto%20final/Assets/presentacion.jpg)
